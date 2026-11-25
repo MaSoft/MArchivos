@@ -4,7 +4,7 @@ Gestor de archivos para el ordenador y el móvil: tus nubes, tus servidores (car
 
 **Aplicación gratuita para Windows y Android desarrollada por [Masoft.es](https://masoft.es)**
 
-- **Windows 1.0.0:** [instalador](https://github.com/MaSoft/MArchivos/releases/download/escritorio-v1.0.0/MArchivos_Setup_v1.0.0.exe) o [ejecutable único](https://github.com/MaSoft/MArchivos/releases/download/escritorio-v1.0.0/MArchivos_v1.0.0.exe)
+- **Windows 1.1.2:** [instalador](https://github.com/MaSoft/MArchivos/releases/download/escritorio-v1.1.2/MArchivos_Setup_v1.1.2.exe) o [ejecutable único](https://github.com/MaSoft/MArchivos/releases/download/escritorio-v1.1.2/MArchivos_v1.1.2.exe)
 - **Android 1.4.5:** [APK](https://github.com/MaSoft/MArchivos/releases/download/android-v1.4.5/MArchivos-1.4.5.apk)
 
 Más información y los manuales también en [masoft.es](https://masoft.es/descargas.html#marchivos).
@@ -13,22 +13,22 @@ Más información y los manuales también en [masoft.es](https://masoft.es/desca
 
 Son dos aplicaciones independientes con el mismo nombre: cada una da de alta sus propias nubes y servidores, y el PC y el móvil no se sincronizan entre sí.
 
-## Windows 1.0.0
+## Windows 1.1.2
 
-**Windows 10 / 11 · 64 bits** · [Página de la versión](https://github.com/MaSoft/MArchivos/releases/tag/escritorio-v1.0.0)
+**Windows 10 / 11 · 64 bits** · [Página de la versión](https://github.com/MaSoft/MArchivos/releases/tag/escritorio-v1.1.2)
 
-- **Instalador:** [`MArchivos_Setup_v1.0.0.exe`](https://github.com/MaSoft/MArchivos/releases/download/escritorio-v1.0.0/MArchivos_Setup_v1.0.0.exe) · 45,8 MB · SHA-256 `8e50164a88ce47c7b5e67498a450eaaace8f41353bbe98bce345de4a213cd14e`
-- **Ejecutable único (sin instalar):** [`MArchivos_v1.0.0.exe`](https://github.com/MaSoft/MArchivos/releases/download/escritorio-v1.0.0/MArchivos_v1.0.0.exe) · 64,7 MB · SHA-256 `0b8d01631178ba6e7ed4cc680524bc5256ae2adb92013b06dcda7abe5d3a754a`
+- **Instalador:** [`MArchivos_Setup_v1.1.2.exe`](https://github.com/MaSoft/MArchivos/releases/download/escritorio-v1.1.2/MArchivos_Setup_v1.1.2.exe) · 47,6 MB · SHA-256 `822c81cf75515174b5fdc654694564ab0d10e644b8943c9b631ddc4fd9f50909`
+- **Ejecutable único (sin instalar):** [`MArchivos_v1.1.2.exe`](https://github.com/MaSoft/MArchivos/releases/download/escritorio-v1.1.2/MArchivos_v1.1.2.exe) · 67,8 MB · SHA-256 `9b177f1a53bffbf14ae5ff4cb4bc97aa9e5b1a2187245c58395c427e4d42aaa0`
 
 ### Qué hace
 - Dos paneles, cada uno en una nube (OneDrive, Google Drive, Dropbox, Box, pCloud, Yandex Disk, MEGA, S3), un servidor o una unidad de tu equipo.
 - Copiar y mover entre todo con botones, clic derecho o arrastrando de un panel al otro.
 - Siempre comprobado: al terminar se mira el destino de verdad y, al mover, el original solo se quita si llegó igual.
 - Copia en el servidor: dentro de la misma conexión los datos no pasan por tu equipo.
-- Cola de transferencias con avance, velocidad y tiempo restante; pausar, reanudar, reintentar, historial e informe HTML.
-- Comparar dos carpetas (solo en A, solo en B, distinto e igual) y copiar a mano lo que marques.
+- Cola de transferencias con avance, velocidad y tiempo restante; pausar, reanudar, reintentar o descartar, historial e informe HTML.
+- Comparar dos carpetas (solo en A, solo en B, distinto e igual) con su avance, aunque tengan cientos de miles de archivos; copiar lo que marques o borrar de A o de B lo que sobra.
 - Una nube o un servidor como letra de unidad en el Explorador.
-- Espacio usado y libre de cada nube, enlace para compartir, vista previa de imágenes y texto, y favoritos.
+- Espacio usado y libre de cada nube, tamaño de cualquier carpeta, enlace para compartir, vista previa de imágenes y texto, y favoritos.
 - Buscar en la red los equipos con carpetas compartidas, SFTP o FTP.
 - Conexiones cifradas que solo abre tu usuario de Windows en ese equipo.
 
@@ -46,7 +46,7 @@ Son dos aplicaciones independientes con el mismo nombre: cada una da de alta sus
 | | |
 |---|---|
 | ![Dos paneles](capturas/02-pc-pc_explorar.webp)<br>**Dos paneles.** Tu equipo a un lado y el servidor al otro: copiar o mover arrastrando. | ![Conexiones](capturas/03-pc-pc_conexiones.webp)<br>**Conexiones.** Nubes y servidores; se añaden eligiendo el tipo. |
-| ![Transferencias](capturas/04-pc-pc_transferencias.webp)<br>**Transferencias.** Cola con avance, historial y estado de cada una. | ![Comparar](capturas/05-pc-pc_comparar.webp)<br>**Comparar.** Qué está solo en una carpeta, qué es distinto y qué es igual. |
+| ![Transferencias](capturas/04-pc-pc_transferencias.webp)<br>**Transferencias.** Cola con avance, historial y estado de cada una. | ![Comparar](capturas/05-pc-pc_comparar.webp)<br>**Comparar.** Qué está solo en una carpeta, qué es distinto y qué es igual, con su avance. |
 
 ## Android 1.4.5
 
